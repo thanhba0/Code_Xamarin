@@ -1,0 +1,9 @@
+C:\Users\Hung\Desktop\Xamarin\Xamarin\code_chapter\chapter4\CSSExample\CSSExample\bin\Debug\netstandard2.0\CSSExample.deps.json
+C:\Users\Hung\Desktop\Xamarin\Xamarin\code_chapter\chapter4\CSSExample\CSSExample\bin\Debug\netstandard2.0\CSSExample.dll
+C:\Users\Hung\Desktop\Xamarin\Xamarin\code_chapter\chapter4\CSSExample\CSSExample\bin\Debug\netstandard2.0\CSSExample.pdb
+C:\Users\Hung\Desktop\Xamarin\Xamarin\code_chapter\chapter4\CSSExample\CSSExample\obj\Debug\netstandard2.0\CSSExample.csprojAssemblyReference.cache
+C:\Users\Hung\Desktop\Xamarin\Xamarin\code_chapter\chapter4\CSSExample\CSSExample\obj\Debug\netstandard2.0\CSSExample.csproj.CoreCompileInputs.cache
+C:\Users\Hung\Desktop\Xamarin\Xamarin\code_chapter\chapter4\CSSExample\CSSExample\obj\Debug\netstandard2.0\CSSExample.AssemblyInfoInputs.cache
+C:\Users\Hung\Desktop\Xamarin\Xamarin\code_chapter\chapter4\CSSExample\CSSExample\obj\Debug\netstandard2.0\CSSExample.AssemblyInfo.cs
+C:\Users\Hung\Desktop\Xamarin\Xamarin\code_chapter\chapter4\CSSExample\CSSExample\obj\Debug\netstandard2.0\CSSExample.dll
+C:\Users\Hung\Desktop\Xamarin\Xamarin\code_chapter\chapter4\CSSExample\CSSExample\obj\Debug\netstandard2.0\CSSExample.pdb

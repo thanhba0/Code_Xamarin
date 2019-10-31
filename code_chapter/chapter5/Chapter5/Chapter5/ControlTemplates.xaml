@@ -1,0 +1,13 @@
+﻿<Application xmlns=http://xamarin.com/schemas/2014/forms      xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="SimpleTheme.App">
+<Application.Resources>
+    <ResourceDictionary>
+        <ControlTemplate x:Key="MyTemplate">
+            <StackLayout>
+                <Label Text="Header"/>
+                <ContentPresenter/>
+                <Label Text="Footer"/>
+            </StackLayout>
+        </ControlTemplate>
+    </ResourceDictionary>
+</Application.Resources>
+</Application>

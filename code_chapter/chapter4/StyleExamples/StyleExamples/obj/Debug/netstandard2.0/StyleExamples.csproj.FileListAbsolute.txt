@@ -1,0 +1,11 @@
+C:\Users\Hung\Desktop\Xamarin\Xamarin\code_chapter\chapter4\StyleExamples\StyleExamples\bin\Debug\netstandard2.0\App.xaml.cs
+C:\Users\Hung\Desktop\Xamarin\Xamarin\code_chapter\chapter4\StyleExamples\StyleExamples\bin\Debug\netstandard2.0\StyleExamplesPage.xaml.cs
+C:\Users\Hung\Desktop\Xamarin\Xamarin\code_chapter\chapter4\StyleExamples\StyleExamples\bin\Debug\netstandard2.0\StyleExamples.deps.json
+C:\Users\Hung\Desktop\Xamarin\Xamarin\code_chapter\chapter4\StyleExamples\StyleExamples\bin\Debug\netstandard2.0\StyleExamples.dll
+C:\Users\Hung\Desktop\Xamarin\Xamarin\code_chapter\chapter4\StyleExamples\StyleExamples\bin\Debug\netstandard2.0\StyleExamples.pdb
+C:\Users\Hung\Desktop\Xamarin\Xamarin\code_chapter\chapter4\StyleExamples\StyleExamples\obj\Debug\netstandard2.0\StyleExamples.csprojAssemblyReference.cache
+C:\Users\Hung\Desktop\Xamarin\Xamarin\code_chapter\chapter4\StyleExamples\StyleExamples\obj\Debug\netstandard2.0\StyleExamples.csproj.CoreCompileInputs.cache
+C:\Users\Hung\Desktop\Xamarin\Xamarin\code_chapter\chapter4\StyleExamples\StyleExamples\obj\Debug\netstandard2.0\StyleExamples.AssemblyInfoInputs.cache
+C:\Users\Hung\Desktop\Xamarin\Xamarin\code_chapter\chapter4\StyleExamples\StyleExamples\obj\Debug\netstandard2.0\StyleExamples.AssemblyInfo.cs
+C:\Users\Hung\Desktop\Xamarin\Xamarin\code_chapter\chapter4\StyleExamples\StyleExamples\obj\Debug\netstandard2.0\StyleExamples.dll
+C:\Users\Hung\Desktop\Xamarin\Xamarin\code_chapter\chapter4\StyleExamples\StyleExamples\obj\Debug\netstandard2.0\StyleExamples.pdb
