@@ -1,0 +1,17 @@
+E:\C#\xamarin_chap6\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.deps.json
+E:\C#\xamarin_chap6\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.dll
+E:\C#\xamarin_chap6\MobileApp\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.pdb
+E:\C#\xamarin_chap6\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csprojAssemblyReference.cache
+E:\C#\xamarin_chap6\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\C#\xamarin_chap6\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\C#\xamarin_chap6\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csproj.CoreCompileInputs.cache
+E:\C#\xamarin_chap6\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfoInputs.cache
+E:\C#\xamarin_chap6\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfo.cs
+E:\C#\xamarin_chap6\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+E:\C#\xamarin_chap6\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.dll
+E:\C#\xamarin_chap6\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.pdb
+E:\C#\xamarin_chap6\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\BindingListString.xaml.g.cs
+E:\C#\xamarin_chap6\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\BindingDataModel.xaml.g.cs
+E:\C#\xamarin_chap6\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\ListViewImage.xaml.g.cs
+E:\C#\xamarin_chap6\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\CustomizingListRow.xaml.g.cs
+E:\C#\xamarin_chap6\MobileApp\MobileApp\MobileApp\obj\Debug\netstandard2.0\ButtonView.xaml.g.cs
